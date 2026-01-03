@@ -9,10 +9,10 @@ mermaid: true
 [Professor Yang Hao's syllabus ](/assets/pdfs/syllabus_math241_hy.pdf){:target="_blank"}
 ## Math241(My notes of the Lecture) 
 1. [Analytical Geometry](/assets/pdfs/Analytical_Geometry.pdf){:target="_blank"}
-2. [Vector Functions](/assets/pdfs/Vector_Functions.pdf){:target="_blank"}
-3. Differentiation
-4. Integration
-5. Vector Calculus 
+2. [Vector Functions 1](/assets/pdfs/Vector_Functions.pdf){:target="_blank"}，[Vector Functions 2](/assets/pdfs/Vector_Functions2.pdf){:target="_blank"}
+3. [Differentiation](/assets/pdfs/Differentiation.pdf){:target="_blank"}
+4. [Integral](/assets/pdfs/Integral.pdf){:target="_blank"}
+5. [Vector Calculus ](/assets/pdfs/Vector_Calculus.pdf){:target="_blank"}
 6. Review
 
 
